@@ -14,6 +14,11 @@
   <a href="https://siliconmisiones.gob.ar" class="silicon misiones icon"> <img src="https://user-images.githubusercontent.com/83146564/134286431-66c73710-c152-4f65-954d-d433e7f4328a.png"> </a>
 </p>
 
+## ¿De qué se trata?
+Es una agenda electrónica que guarda los datos que se almacenan en las casillas de texto correspondientes. 
+Fue realizada en el IDE Netbeans y se utilizó un JFrame Form que deriva al uso de la Interfaz Gráfica de Usuario (IGU).
+Los recursos utilizados para llevar a cabo el trabajo fueron las explicaciones de la profesora Luisina en cada una de sus clases y Google.
+
 ## ¿Cómo usar?
 1) Descargarse todo el repositorio de `Polotic Misiones`
 2) Abrirlo en un IDE (este proyecto fue creado en Netbeans)
