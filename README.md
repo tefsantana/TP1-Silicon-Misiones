@@ -15,7 +15,7 @@
 </p>
 
 ## ¿Cómo usar?
-1) Descargarse todo el repositorio
+1) Descargarse todo el repositorio de `Polotic Misiones`
 2) Abrirlo en un IDE (este proyecto fue creado en Netbeans)
 3) Ir a la carpeta `logica` y ejecutar el archivo `PoloticMisiones.java`
 
