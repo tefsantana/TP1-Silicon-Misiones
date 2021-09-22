@@ -15,8 +15,8 @@
 </p>
 
 ## ¿De qué se trata?
-Es una agenda electrónica que guarda los datos que se almacenan en las casillas de texto correspondientes. 
-Fue realizada en el IDE Netbeans y se utilizó un JFrame Form que deriva al uso de la Interfaz Gráfica de Usuario (IGU).
+Es una agenda electrónica que guarda los datos que se almacenan en las casillas de texto correspondientes. <br>
+Fue realizada en el IDE Netbeans y se utilizó un JFrame Form que deriva al uso de la Interfaz Gráfica de Usuario (IGU). <br>
 Los recursos utilizados para llevar a cabo el trabajo fueron las explicaciones de la profesora Luisina en cada una de sus clases y Google.
 
 ## ¿Cómo usar?
